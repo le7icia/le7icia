@@ -1,16 +1,14 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🦋💟
 
-<!--
-**le7icia/le7icia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é **Leticia**  
 
-Here are some ideas to get you started:
+- estou estudando no alura ![alura](http://www.alura.com.br)
+- estou me desenvolvendo na linguagem Javascript
+- ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### vocẽ  entra em contato comigo 🕵️‍♀️
+
+leticia.gabrielly.candido@escola.pr.gov.br
+
+@le7icia
+![](![image](https://github.com/le7icia/le7icia/assets/141042885/31f861a4-10e9-440b-b994-5af1da942eff)
